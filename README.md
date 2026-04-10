@@ -2,7 +2,7 @@
 
 ![AppIcon128](Images/AppIcon128.png) 
 
-This is the **markdown-reference-plain.txt** file use in the video to help you get started learning the basics of Markdown
+This is the completed and marked up **markdown-reference-plain.md** file use in the video to help you get started learning the basics of Markdown
 
 
 
