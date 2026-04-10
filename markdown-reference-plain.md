@@ -71,7 +71,7 @@ This is a link label and its URL
 [Markdown Guide](https://www.markdownguide.org)
 
 This is an image with alt text My Logo and its path
-![My Logo](images/logo.png))
+![My Logo](images/logo.png)
 
 This is a link with a title tooltip
 [Markdown Guide](https://www.markdownguide.org "Visit Markdown Guide")
@@ -79,9 +79,9 @@ This is a link with a title tooltip
 
 ## TABLES
 
-| Name     | Role                                     | Level
-| ----------- | ------------------------------------ |
-| Alice       | Developer Extraordinaire    | Senior
-| Bob         | Designer                             | Junior
-| Carol       | Manager                             | Lead
+| Name        | Role          | Level
+| - | - | - 
+| Alice       | Developer     | Senior
+| Bob         | Designer      | Junior
+| Carol       | Manager       | Lead
 
